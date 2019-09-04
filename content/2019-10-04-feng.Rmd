@@ -1,0 +1,13 @@
+---
+title: 'Practice Job Talk: Yilang Feng'
+author: "Yilang Feng"
+date: "2019-10-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please join us for Yilang Feng's practice job talk on October 4, 2019.
+
