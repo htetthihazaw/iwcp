@@ -1,0 +1,21 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+<img alt = 'IWCP' style='max-width:50vw' src='/./about_files/group.png' />\
+\
+Hello! We are IWCP. We are interested in comparative politics.
+
+## Our team
+
+Michael Lerner\
+
+Guoer Liu\
+
+Julia Maynard\

@@ -1,0 +1,12 @@
+---
+title: 'Spatial Dynamics in African Political Economy, Catherine Boone'
+author: 'Catherine Boone'
+date: 2019-04-22
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document is a sketch of part of book précis. Comments and suggestions are welcome. Please do not circulate. The research is funded under ESRC Grant ES/R005753/1 (2019-2021), "Spatial Dynamics in African Political Economy." I thank Rebecca Simson, who gathered data and produced the descriptive stats. and quantitative analysis in Boone and Simson, "Regional Inequalities in African Political Economy: Theory, Conceptualization and Measurement, and Political Effects," LSE Department of International Development Working Paper 19-194 (March 2019), some of which is used in Part I.

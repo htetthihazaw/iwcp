@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566535375989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22BC7876",
+    "lastKnownWriteTime" : 1567576287,
+    "last_content_update" : 1567576287442,
+    "path" : "~/Downloads/IWCP_Website/themes/hugo-lithium/static/css/main.css",
+    "project_path" : "themes/hugo-lithium/static/css/main.css",
+    "properties" : {
+        "cursorPosition" : "315,16",
+        "scrollLine" : "309"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

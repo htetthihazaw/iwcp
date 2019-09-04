@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567575502563.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3A7F34EF",
+    "lastKnownWriteTime" : 1567575848,
+    "last_content_update" : 1567575848901,
+    "path" : "~/Downloads/IWCP_Website/content/post/2019-04-22-boone.Rmd",
+    "project_path" : "content/post/2019-04-22-boone.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,70",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

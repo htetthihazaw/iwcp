@@ -1,0 +1,19 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(imager)
+image <- load.image("group.png")
+```
+
+
+[IWCP](./group.png)
+
+```{r pressure, echo=FALSE}
+plot(image, ann=FALSE, xaxt="n", yaxt="n" )
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

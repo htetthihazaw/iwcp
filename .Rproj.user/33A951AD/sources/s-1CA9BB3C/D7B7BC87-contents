@@ -1,0 +1,14 @@
+---
+title: "Corruption and You, Deanna Kolberg and Hwayong Shin"
+author: "Deanna Kolberg and Hwayong Shin"
+date: "2020-04-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+After the outbreak of the presidential corruption scandal in South Korea in 2016, citizens expressed high levels of government disaffection with complaints about personal grievances. This study explores whether national corruption scandals can trigger citizens to connect their personal life to national politics. While previous studies have shown a split between personal life and national politics in citizens’ minds (e.g. limited impact of pocketbook economy or self-interest on political decision and attitudes), we conduct an experiment to test whether the domain of corruption scandal (education, employment, retirement) and competitive framing of corruption (explicit or implicit zero-sum competition between elites and citizens) influence the degree to which citizens blame government for their own personal grievances. To understand how personal relevancy affects such perceptions, we examine whether individuals who have concerns on the domain of corruption are more likely to blame government than those who do not. We further examine whether the framing of corruption scandals, in addition to politicizing personal experiences, leads people to participate in anti-corruption protests. First, we find evidence that when people are exposed to a corruption story, they attribute greater blame to government for their personal concerns and become more willing to participate in protest, to a greater extent when the competition framing was explicit. Second, we also find that personal relevancy, or higher level of concern on a particular domain, increase blame for government and willingness to protest. For both findings, the evidence was clear for the government blame for education and employment concerns, but less clear for retirement concerns and protest participation.
