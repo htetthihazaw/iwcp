@@ -10,7 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img alt = 'IWCP' style='display: block; margin-left: auto; margin-right: auto;width: 50vw;' src='/./about_files/group.png' />\
 \
-Hello! We are IWCP. We are interested in comparative politics.
+
+Hello and hello and hello.
 
 ### Our Team
 
