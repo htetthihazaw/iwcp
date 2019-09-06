@@ -121,7 +121,7 @@ If you are interested in signing up, please fill this Google Form.</description>
       <guid>/events/</guid>
       <description>Hello
 {{ partial “header.html” . }}
-{{ if .Content }} {{ if .Title }} {{ .Title }}  {{ end }}  {{ .Content }} &amp;lt;/div&amp;gt;  {{ end }} {{ $pages := .Pages }} {{ if .IsHome }} {{ $pages = .Site.RegularPages }} {{ end }} {{ range (where $pages &amp;quot;Section&amp;quot; &amp;quot;!=&amp;quot; &amp;quot;&amp;quot;).GroupByDate &amp;quot;2006&amp;quot; }} &amp;lt;h2 class=&amp;quot;archive-title&amp;quot;&amp;gt;{{ .Key }}&amp;lt;/h2&amp;gt; {{ range .Pages }} &amp;lt;article class=&amp;quot;archive-item&amp;quot;&amp;gt; &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot; class=&amp;quot;archive-item-link&amp;quot;&amp;gt;{{ .</description>
+{{ if .Content }}{{ if .Title }}{{ .Title }}{{ end }} {{ .Content }}&amp;lt;/div&amp;gt;{{ end }}{{ $pages := .Pages }}{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}{{ range (where $pages &amp;quot;Section&amp;quot; &amp;quot;!=&amp;quot; &amp;quot;&amp;quot;).GroupByDate &amp;quot;2006&amp;quot; }}&amp;lt;h2 class=&amp;quot;archive-title&amp;quot;&amp;gt;{{ .Key }}&amp;lt;/h2&amp;gt;{{ range .Pages }}&amp;lt;article class=&amp;quot;archive-item&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot; class=&amp;quot;archive-item-link&amp;quot;&amp;gt;{{ .</description>
     </item>
     
   </channel>
