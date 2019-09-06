@@ -2,6 +2,7 @@
 title: "Events"
 output: html_document
 ---
+Hello
 
 {{ partial "header.html" . }}
 

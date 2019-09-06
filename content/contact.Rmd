@@ -7,12 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
-Hello there!
-=======
-Hello - test2
->>>>>>> 336437017f4f262cd9eebb31dfc763ed379f6f1a
-
 You can contact us via email at:\
 
 Michael Lerner,\
