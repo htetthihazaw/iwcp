@@ -7,9 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+	  
+        <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> About Hello and hello and hello! I think I have fixed it
+Our Team Michael Lerner
+Guoer Liu
+Julia Maynard
+  </description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />    
     
     <item>
       <title>Presentation: Deanna Kolberg</title>
@@ -144,6 +156,7 @@ Please join us for Ron’s talk on September 20th from 1:00-2:30 in the PreFunct
       <guid>/2019/09/13/practice-job-talk-kirill-zhirkov/</guid>
       <description>Please join us for Kirill Zhirkov’s practice job talk on September 13, 2019</description>
     </item>
+<<<<<<< HEAD
     
     <item>
       <title></title>
@@ -155,6 +168,9 @@ Please join us for Ron’s talk on September 20th from 1:00-2:30 in the PreFunct
 Workshops meet from 1–2.</description>
     </item>
     
+=======
+        
+>>>>>>> 69a4db8302bec9453a867f8f739708233628b861
     <item>
       <title>Contact</title>
       <link>/contact/</link>
