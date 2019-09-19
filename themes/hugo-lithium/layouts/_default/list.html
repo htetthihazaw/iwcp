@@ -17,7 +17,7 @@
     {{ if .IsHome }}
     {{ $pages = .Site.RegularPages }}
     {{ end }}
-    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" }}
+    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" "asc"}}
     <h2 class="archive-title">Fall {{ .Key }} Schedule</h2>
     {{ range .Pages }}
     <article class="archive-item">
