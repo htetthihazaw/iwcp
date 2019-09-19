@@ -17,30 +17,15 @@
     {{ if .IsHome }}
     {{ $pages = .Site.RegularPages }}
     {{ end }}
-    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" "asc"}}
-    <h2 class="archive-title">Upcoming Events</h2>
+    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" }}
+    <h2 class="archive-title">Fall {{ .Key }} Schedule</h2>
     {{ range .Pages }}
-    {{ if ge .Date.Unix now.Unix }}
     <article class="archive-item">
       <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
       <span class="archive-item-date">
         {{ .Date.Format "2006-01-02" }}
       </span>
     </article>
-    {{ end }}
-    {{ end }}
-    {{ end }}
-    {{ range (where $pages "Section" "!=" "").GroupByDate "2006" "asc"}}
-    <h2 class="archive-title">Past Events</h2>
-    {{ range .Pages }}
-    {{ if lt .Date.Unix now.Unix }}
-    <article class="archive-item">
-      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
-      <span class="archive-item-date">
-        {{ .Date.Format "2006-01-02" }}
-      </span>
-    </article>
-    {{ end }}
     {{ end }}
     {{ end }}
   </div>
