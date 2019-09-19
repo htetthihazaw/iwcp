@@ -30,13 +30,7 @@
     {{ end }}
     {{ end }}
     {{ end }}
-  </div>
-  
-  <div class="archive">
-    {{ $pages := .Pages }}
-    {{ if .IsHome }}
-    {{ $pages = .Site.RegularPages }}
-    {{ end }}
+    <br>
     {{ range (where $pages "Section" "!=" "").GroupByDate "2006" "asc"}}
     <h2 class="archive-title">Past Events</h2>
     {{ range .Pages }}
