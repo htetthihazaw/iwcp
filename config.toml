@@ -10,11 +10,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "Events"
+    name = "Schedule"
     url = "/"
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Resources"
+    url = "/resources/"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
