@@ -6,7 +6,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 The Interdisciplinary Workshop in Comparative Politics (IWCP) provides a platform for sharing and improving research that provides comparative perspectives on the causes and effects of political and economic processes. We have participants from Economics, the Ford School of Public Policy, the Law School, the Lieberthal-Rogel Center for Chinese Studies, Mathematics, Political Science, the Ross School of Business, Sociology, Statistics, and the Weiser Center for Emerging Democracies.\
 
 Workshops meet from 1--2.30pm on Fridays on the 5th floor of Haven Hall.\
