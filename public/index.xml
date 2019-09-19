@@ -75,21 +75,7 @@ Please join us for Ron’s talk on September 20th from 1:00-2:30 in the PreFunct
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/13/practice-job-talk-kirill-zhirkov/</guid>
-      <description>The Political Relevance of Implicit and Explicit Racialized Schemas about Immigrant Origins: Evidence from the United States and Britain
-In 5450 North Quad in the Communication and Media Conference Room
-Empirical research consistently demonstrates the importance of racial attitudes in structuring public opinion and political behavior. In this paper, I suggest that the degree to which natives think of immigrants in racial terms is strongly related to attitudes toward immigration.</description>
-    </item>
-    
-    <item>
-      <title>WCED Colloquium on Authoritarian Politics: Iza Ding and Jeffrey Javed</title>
-      <link>/2019/09/12/wced-colloquium-on-authoritarian-politics-iza-ding-and-jeffrey-javed/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/09/12/wced-colloquium-on-authoritarian-politics-iza-ding-and-jeffrey-javed/</guid>
-      <description>Red Memory: Nostalgia, Trauma, and Public Opinion in Contemporary China
-Iza Ding (University of Pittsburg) and Jeffrey Javed (University of Michigan)
-Abstract
-How do citizens remember the political past and how do these memories shape their views of present-day politics? We examine the formation of political memory and its relationship with individual attitudes toward contemporary government policies in China, focusing on Chinese citizens’ memories of the Maoist era (1949-1976). On the basis of 77 intensive semi-structured interviews in four cities, we find that Maoist nostalgia—where it exists—is a reaction to the profound feeling of moral disenchantment many Chinese citizens feel over the complex societal challenges resulting from China’s extraordinary four-decade arc of economic reform.</description>
+      <description>Please join us for Kirill Zhirkov’s practice job talk on September 13, 2019</description>
     </item>
     
     <item>
@@ -98,18 +84,35 @@ How do citizens remember the political past and how do these memories shape thei
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>The Interdisciplinary Workshop in Comparative Politics (IWCP) provides a platform for sharing and improving research that provides comparative perspectives on the causes and effects of political and economic processes. We have participants from Economics, the Ford School of Public Policy, the Law School, the Lieberthal-Rogel Center for Chinese Studies, Mathematics, Political Science, the Ross School of Business, Sociology, Statistics, and the Weiser Center for Emerging Democracies.
-Workshops meet from 1–2.</description>
+      <description> About Hello heloo2
+Hello! We are IWCP. We are interested in comparative politics.
+Our Team Michael Lerner
+Guoer Liu
+Julia Maynard
+  </description>
     </item>
     
     <item>
-      <title>Resources</title>
-      <link>/resources/</link>
+      <title>Contact</title>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resources/</guid>
-      <description>Comparative Politics Reading Lists  Over the past decade, graduate students in the Political Science department have created a valuable common pool resource consisting of course syllabi, reading lists for preliminary exams, and reading notes and summaries. This resource provides a foundation for scholars interested in becoming familiar with the literature on comparative politics. This resource is accessible to University of Michigan-affiliated individuals at this link.
- Funding Opportunities List  Originally provided courtesy of Prof.</description>
+      <guid>/contact/</guid>
+      <description>You can contact us via email at:
+Michael Lerner,
+Guoer Liu,
+Julia Maynard,
+If you are interested in signing up, please fill this Google Form.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/</guid>
+      <description>{{ partial “header.html” . }}
+{{ if .Content }} {{ if .Title }} {{ .Title }}  {{ end }}  {{ .Content }} &amp;lt;/div&amp;gt;  {{ end }} {{ $pages := .Pages }} {{ if .IsHome }} {{ $pages = .Site.RegularPages }} {{ end }} {{ range (where $pages &amp;quot;Section&amp;quot; &amp;quot;!=&amp;quot; &amp;quot;&amp;quot;).GroupByDate &amp;quot;2006&amp;quot; }} &amp;lt;h2 class=&amp;quot;archive-title&amp;quot;&amp;gt;{{ .Key }}&amp;lt;/h2&amp;gt; {{ range .Pages }} &amp;lt;article class=&amp;quot;archive-item&amp;quot;&amp;gt; &amp;lt;a href=&amp;quot;{{ .RelPermalink }}&amp;quot; class=&amp;quot;archive-item-link&amp;quot;&amp;gt;{{ .</description>
     </item>
     
   </channel>
