@@ -9,5 +9,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Please join us for Yilang Feng's practice job talk on October 4, 2019.
+Please join us for Yilang Feng's practice job talk October 4, 2019.
 
