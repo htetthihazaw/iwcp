@@ -1,0 +1,12 @@
+---
+title: 'Practice Job Talk: Todd Lehmann'
+author: "Todd Lehmann"
+date: "2019-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please join us for Todd Lehmann’s practice job talk on October 11, 2019.
