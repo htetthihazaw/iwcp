@@ -20,17 +20,17 @@ output: html_document
 &lt;/div&gt;</code></pre>
 </article>
 {{ end }}
-<div class="archive">
+<div class="article">
 <pre><code>{{ $pages := .Pages }}
 {{ if .IsHome }}
 {{ $pages = .Site.RegularPages }}
 {{ end }}
 {{ range (where $pages &quot;Section&quot; &quot;!=&quot; &quot;&quot;).GroupByDate &quot;2006&quot; }}
-&lt;h2 class=&quot;archive-title&quot;&gt;{{ .Key }}&lt;/h2&gt;
+&lt;h2 class=&quot;article-title&quot;&gt;{{ .Key }}&lt;/h2&gt;
 {{ range .Pages }}
-&lt;article class=&quot;archive-item&quot;&gt;
-  &lt;a href=&quot;{{ .RelPermalink }}&quot; class=&quot;archive-item-link&quot;&gt;{{ .Title }}&lt;/a&gt;
-  &lt;span class=&quot;archive-item-date&quot;&gt;
+&lt;article class=&quot;article-item&quot;&gt;
+  &lt;a href=&quot;{{ .RelPermalink }}&quot; class=&quot;article-item-link&quot;&gt;{{ .Title }}&lt;/a&gt;
+  &lt;span class=&quot;article-item-date&quot;&gt;
     {{ .Date.Format &quot;2006-01-02&quot; }}
   &lt;/span&gt;
 &lt;/article&gt;

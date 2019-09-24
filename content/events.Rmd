@@ -18,17 +18,17 @@ Hello
     </div>
   </article>
   {{ end }}
-  <div class="archive">
+  <div class="article">
     {{ $pages := .Pages }}
     {{ if .IsHome }}
     {{ $pages = .Site.RegularPages }}
     {{ end }}
     {{ range (where $pages "Section" "!=" "").GroupByDate "2006" }}
-    <h2 class="archive-title">{{ .Key }}</h2>
+    <h2 class="article-title">{{ .Key }}</h2>
     {{ range .Pages }}
-    <article class="archive-item">
-      <a href="{{ .RelPermalink }}" class="archive-item-link">{{ .Title }}</a>
-      <span class="archive-item-date">
+    <article class="article-item">
+      <a href="{{ .RelPermalink }}" class="article-item-link">{{ .Title }}</a>
+      <span class="article-item-date">
         {{ .Date.Format "2006-01-02" }}
       </span>
     </article>
