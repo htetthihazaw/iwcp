@@ -1,7 +1,7 @@
 ---
-title: "WCED Colloquium on Authoritarian Politics: Iza Ding and Jeffrey Javed"
+title: "September 12: WCED Colloquium on Authoritarian Politics: Iza Ding and Jeffrey Javed"
 author: "Iza Ding and Jeffrey Javed"
-date: "2019-09-12"
+date: "2019-09-01"
 output: html_document
 ---
 
