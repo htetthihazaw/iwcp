@@ -1,7 +1,7 @@
 ---
 title: 'January 17 Presentation: Tom O''Mealia'
 author: "Tom O'Mealia"
-date: "1/7/2020"
+date: "2020-01-17"
 output: html_document
 ---
 
