@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IWCP: University of Michigan</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Posts on IWCP: University of Michigan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>January 10 Presentation: Sasha de Vogel</title>
+      <link>/2020/01/10/january-10-presentation-sasha-de-vogel/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/10/january-10-presentation-sasha-de-vogel/</guid>
+      <description>Information, Concessions and Reneging in Authoritarian Regimes
+How does information affect how autocratic governments make concessions to subnational protest campaigns? I argue the strategic purpose of concessions varies depending on the level of information about the grievance available to the government. In cases where the government has little prior awareness of the motivating grievance, protests convey valuable new information, and concessions are used as a long-term adaptation strategy, to eliminate grievances and prevent citizens from becoming regime opponents.</description>
+    </item>
     
     <item>
       <title>November 22 Presentation : Deanna Kolberg</title>
