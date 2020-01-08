@@ -1,0 +1,25 @@
+---
+title: "Deanna Kolberg"
+author: "Deanna Kolberg"
+date: "2019-11-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***Informal Communities and Data Reporting Bias***
+
+In addition to buying and selling votes, brokers are often simultaneously in positions of
+community leadership working on advocacy and governance. Brokerage and community work
+can in some cases be complementary- the broker's community work helps build a network
+which they can leverage to buy votes- but can also be rivalrous { a broker's electoral work
+can make their governance efforts more difficult. Does changes in the political environment
+effect effort and outcomes in grassroots governance? I demonstrate the connection between
+neighborhood leaders' brokerage and governance work by testing the relationship between levels
+of broker competition (a brokerage indicator) and neighborhood membership file completeness
+(a governance quality indicator). In doing so, my research expands the literature on broker
+behavior by documenting how the governance roles that brokers play in their community are
+influenced by their political work and joins a growing literature on the importance of grassroots
+actors in everyday political life.
