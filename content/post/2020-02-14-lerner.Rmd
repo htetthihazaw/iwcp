@@ -5,4 +5,6 @@ date: "2020-02-14"
 output: html_document
 ---
 
-***Dissertation Prospectus***
+***Political Institutions and the Durability of Environmental Policy***
+
+Co-authored with Chuck Shipan
