@@ -1,0 +1,10 @@
+---
+title: "Johannes Urpelainen (Johns Hopkins University)"
+author: "Johannes Urpelainen (Johns Hopkins University)"
+date: "2020-02-21"
+output: html_document
+---
+
+***How Effective Are Political Solutions to Ethnic Bias? Caste and Clean Drinking Water in Rural India***
+
+Social scientists have documented prevalent ingroup bias in human societies, but the empirical evidence on effective strategies to reduce such unequal treatment to marginalized groups remains thin. We focus on caste-based bias in India's largest state, Uttar Pradesh, with a population of 200 million and one-fifth of them from the lower castes (Dalits, or scheduled castes). First, we show a bias in government-sponsored handpump construction for drinking water access against Dalits communities. Next, we conduct electoral and geographic regression discontinuity analyses respectively to examine whether the electoral victory of the Bahujan Samaj Party (BSP) or electoral reservations for Dalits alleviate the unequal access to clean water. While we do not find evidence that the BSP has been able to achieve this goal, we see that reservations for Dalits neutralize such bias against them. These results suggest that the latter political solution can be an effective policy to mitigate the unequal distribution of local public goods in developing countries.

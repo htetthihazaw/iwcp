@@ -12,9 +12,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Events"
     url = "/"
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
