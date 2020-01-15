@@ -14,3 +14,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Co-Authored with Adam Glynn (Emory University)
 
 Please join us for Nahomi's presentation on November 1, 2019.
+
+<a href="https://drive.google.com/open?id=1YWfK2kkRcWTwKFXoY9RFlFD0XiHdncwW">Download the paper here (U-M only)</a>\

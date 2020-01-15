@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Please join us for Ron's talk on September 20th from 1:00-2:30 in the PreFunction Room.
 
+<a href="https://drive.google.com/open?id=19TzYCY_4TTl0FTWoN3AZAv4VVW8h4I9O">Download the paper here (U-M only)</a>\
