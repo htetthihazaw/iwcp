@@ -1,10 +1,7 @@
 ---
-title: "Tony Bertelli (Bocconi University)"
-author: "Tony Bertelli (Bocconi University)"
+title: "MPSA Practice Session"
+author: "MPSA Practice Session"
 date: "2020-04-10"
 output: html_document
 ---
 
-Co-sponsored with IWAP, AIG, and JSS. 
-
-Please note this talk will be from 12:00-1:15 in Eldersveld.
