@@ -6,3 +6,7 @@ output: html_document
 ---
 
 ***Multiple Supervision in Reform China***
+
+I provide a research memo that is part of the design for a proposed dissertation chapter. Because it’s a “later” chapter, it takes a lot of things as given. I try to cover that ground quickly on the front end of the memo. I welcome comments about any aspect of the memo, but I am particularly perplexed by how to resolve some of the problems with the theory-to-empirical strategy match-up that I discuss in the research design section. I’m currently at the stage of the empirical project where I’m unsure if the difficulties described either make testing my theory in a thoughtful and credible way impossible or sufficiently difficult that the costs of dealing with them will outweigh the benefits.
+
+<a href="https://drive.google.com/open?id=1o3ml39LXHEM3Ltu1jPq86k8QASXH9qIq">Download the paper here (U-M only)</a>\
