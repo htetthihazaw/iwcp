@@ -1,7 +1,0 @@
----
-title: "MPSA Practice Session"
-author: "MPSA Practice Session"
-date: "2020-04-10"
-output: html_document
----
-
