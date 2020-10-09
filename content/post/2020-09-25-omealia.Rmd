@@ -1,0 +1,13 @@
+---
+title: "Thomas O'Mealia"
+author: "Thomas O'Mealia"
+date: "2020-09-25"
+output: html_document
+---
+
+***Protection and the Origins of Institutional Trust: Evidence from Protection Rackets in Eastern DRCongo***
+
+As armed actors attempt to establish local monopolies on violence, civilians face a dangerous choice: do they trust the armed group to provide security, exchanging regular tribute for protection from violence, despite their limited leverage to stop the security provider from abusing their coercive power? Or do they reject the armed actors by fleeing, passively resisting, or attempting to provide security themselves? I analyze the conditions under which civilians trust potential security providers seeking to re-establish order locally in a zone of acute insecurity. Civilians trust potential security providers the area where the live recently experienced with banditry, which increases the demand for protection, and when the security provider institutes regularized extortion schemes, which, while costly, provide civilians with predictability. I empirically evaluate my theory using responses to an original survey and fine-grained data on the location and operators of roadblocks collected in two provinces that are the epicenter of ongoing violence in eastern DRCongo, where state absence has given rise to privatized fluid local protection rackets. I find that civilians are more likely to trust security providers when they institute predictable tribute systems and if the area experienced banditry in the recent past. In contrast, civilians are not more likely to trust security providers if they have similar recent experience with banditry but the security provider establishes unpredictable tribute systems. These results demonstrate how local security vacuums can produce exploitative but mutually beneficial informal institutions that undermine macro state-building projects while paradoxically building institutional trust and providing crucial protection to vulnerable civilians locally.
+
+
+
