@@ -1,6 +1,6 @@
 ---
-title: "Thomas O'Mealia"
-author: "Thomas O'Mealia"
+title: "Tom O'Mealia"
+author: "Tom O'Mealia"
 date: "2020-09-25"
 output: html_document
 ---
