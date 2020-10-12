@@ -1,0 +1,8 @@
+---
+title: "Simeon Newman"
+author: "Simeon Newman"
+date: "2020-10-30"
+output: html_document
+---
+
+***Mass Clientelism: A Mode of Political Intermediation***

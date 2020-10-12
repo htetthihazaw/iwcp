@@ -1,0 +1,7 @@
+---
+title: "Michael Thompson-Brusstar"
+author: "Michael Thompson-Brusstar"
+date: "2020-11-06"
+output: html_document
+---
+***Supervision Science: Institutional Design in Chinese Anticorruption***
