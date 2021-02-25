@@ -1,0 +1,8 @@
+---
+title: "Wooseok Kim"
+author: "Wooseok Kim"
+date: "2021-03-19"
+output: html_document
+---
+
+***Party System Institutionalization: Concept and Measurement using a Bayesian Latent Variable Model***
