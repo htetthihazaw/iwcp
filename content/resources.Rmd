@@ -6,7 +6,16 @@ output: html_document
 Over the past decade, graduate students in the Political Science department have created a valuable common pool resource consisting of course syllabi, reading lists for preliminary exams, and reading notes and summaries. This resource provides a foundation for scholars interested in becoming familiar with the literature on comparative politics. This resource is accessible to University of Michigan-affiliated individuals <a href="https://drive.google.com/drive/folders/0B7XV4xueCwliLWNoVkcyc19pbms?usp=sharing">at this link</a>.
 
 <h1><a href="https://drive.google.com/file/d/1cPKtuBd_z6jPtT2jKSWMVOBvgS6IE0C4/view?usp=sharing">**Funding Opportunities List**</a></h1>
-Originally provided courtesy of Prof. Mark Tessler, this is a document listing a variety of internal and external funding opportunities for comparative politics research. This list is a living document, so please add new funding opportunities and update/remove out-of-date entries as appropriate. This resource is accessible to University of Michigan-affiliated individuals <a href="https://drive.google.com/file/d/1cPKtuBd_z6jPtT2jKSWMVOBvgS6IE0C4/view?usp=sharing">at this link</a>.\
+Originally provided courtesy of Professor Mark Tessler, this is a document listing a variety of internal and external funding opportunities for comparative politics research. This list is a living document, so please add new funding opportunities and update/remove out-of-date entries as appropriate. This resource is accessible to University of Michigan-affiliated individuals <a href="https://drive.google.com/file/d/1cPKtuBd_z6jPtT2jKSWMVOBvgS6IE0C4/view?usp=sharing">at this link</a>.\
+
+
+<h1><a href="https://drive.google.com/drive/folders/1CSCBNbbqep1Fg87nAMMafT7P3HTcPEr4?usp=sharing">**Job Market Resources List**</a></h1>
+This folder contains resources and advice for those who are going onto the job market. Resources also include materials have been kindly contributed by scholars outside of the University of Michigan, including from Stanford and MIT (Yiqing Xu and Justin Grimmer). This resource is accessible to University of Michigan-affiliated individuals <a href="https://drive.google.com/drive/folders/1CSCBNbbqep1Fg87nAMMafT7P3HTcPEr4?usp=sharing">at this link</a>.\
+
+<h1><a href="https://drive.google.com/file/d/1WQDzURamIrY9sA8-jq1jsQhZgnqCSUIr/view?usp=sharing">**Fieldwork Resources List**</a></h1>
+This folder contains resources and advice for those who are preparing for fieldwork, including materials kindly contributed by Professor Pauline Jones. This resource is accessible to University of Michigan-affiliated individuals <a href="https://drive.google.com/file/d/1WQDzURamIrY9sA8-jq1jsQhZgnqCSUIr/view?usp=sharing">at this link</a>.\
+
+
 
 Requests to view these resources by individuals who are not affiliated with the University of Michigan will be considered on a case-by-case by the IWCP organizers.
 
