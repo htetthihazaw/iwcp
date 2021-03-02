@@ -20,12 +20,12 @@ You can contact us via email at <a href="mailto:iwcp-listserv-requests@umich.edu
   </colgroup>
   <tr>
     <th>Hojung Joo (<a href="https://sites.lsa.umich.edu/hojungjoo/">bio</a>)</th>
-    <th>Hilary Izatt (<a href="https://lsa.umich.edu/polisci/people/graduate-students/hizatt.html">bio</a>)</th>
+    <th>Danny Blinderman (<a href="https://lsa.umich.edu/polisci/people/graduate-students/dannygb.html">bio</a>)</th>
     <th>Rebecca Wai (<a href="https://lsa.umich.edu/polisci/people/graduate-students/waire.html">bio</a>)</th>
   </tr>
   <tr>
     <td><img alt = 'Hojung Joo' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/joo_headshot.jpg' /></td>
-    <td><img alt = 'Hilary Izatt' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/izatt_headshot.jpg' /></td>
+    <td><img alt = 'Danny Blinderman' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/blinderman_headshot.jpg' /></td>
     <td><img alt = 'Rebecca Wai' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/wai_headshot.jpg' /></td>
   </tr>
 </table>
