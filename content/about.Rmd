@@ -6,41 +6,43 @@ The Interdisciplinary Workshop in Comparative Politics (IWCP) provides a platfor
 
 Workshops meet from 1--2.30pm on Fridays on the 5th floor of Haven Hall.\
 
-IWCP is a <a href="https://rackham.umich.edu/faculty-and-staff/faculty-and-program-funding/rackham-interdisciplinary-workshops/">Rackham Interdisciplinary Workshop</a>
+IWCP is a <a href="https://rackham.umich.edu/faculty-and-staff/faculty-and-program-funding/rackham-interdisciplinary-workshops/">Rackham Interdisciplinary Workshop</a>.
 
 <h1>**Contact**</h1>
 If you are interested in signing up for the IWCP listserv, please visit <a href="https://mcommunity.umich.edu/#group:Interdisciplinary%20Workshop%20in%20Comparative%20Politics">our MCommunity page.</a>\
 
-You can contact us via email at <a href="mailto:iwcp-listserv-requests@umich.edu">iwcp-listserv-requests@umich.edu</a>\
+You can contact us via email at <a href="mailto:iwcp-listserv-requests@umich.edu">iwcp-listserv-requests@umich.edu</a>.
 
-**2020--2021 Graduate Student Organizers**\
+**2020-2021 Graduate Student Organizers**
+
 <table border="0" width="100%" ID="Table2" style="margin: 0px;">
   <colgroup>
-    <col span="3">
+  <col span="3">
   </colgroup>
   <tr>
-    <th>Hojung Joo (<a href="https://sites.lsa.umich.edu/hojungjoo/">bio</a>)</th>
-    <th>Danny Blinderman (<a href="https://lsa.umich.edu/polisci/people/graduate-students/dannygb.html">bio</a>)</th>
-    <th>Rebecca Wai (<a href="https://lsa.umich.edu/polisci/people/graduate-students/waire.html">bio</a>)</th>
+  <th>Hojung Joo (<a href="https://sites.lsa.umich.edu/hojungjoo/">bio</a>)</th>
+  <th>Danny Blinderman (<a href="https://lsa.umich.edu/polisci/people/graduate-students/dannygb.html">bio</a>)</th>
+  <th>Rebecca Wai (<a href="https://lsa.umich.edu/polisci/people/graduate-students/waire.html">bio</a>)</th>
   </tr>
   <tr>
-    <td><img alt = 'Hojung Joo' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/joo_headshot.jpg' /></td>
-    <td><img alt = 'Danny Blinderman' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/blinderman_headshot.jpg' /></td>
-    <td><img alt = 'Rebecca Wai' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/wai_headshot.jpg' /></td>
+  <td><img alt = 'Hojung Joo' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/joo_headshot.jpg' /></td>
+  <td><img alt = 'Danny Blinderman' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/blinderman_headshot.jpg' /></td>
+  <td><img alt = 'Rebecca Wai' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/wai_headshot.jpg' /></td>
   </tr>
-</table>
+</table>\
 
 **2020--2021 Faculty Organizers**\
+
 <table border="0" width="100%" ID="Table2" style="margin: 0px;">
   <colgroup>
-    <col span="2">
+  <col span="2">
   </colgroup>
   <tr>
-    <th>Pauline Jones (<a href="https://lsa.umich.edu/polisci/people/faculty/pjluong.html">bio</a>)</th>
-    <th>Noah Nathan (<a href="https://sites.lsa.umich.edu/noahnathan/">bio</a>)</th>
+  <th>Pauline Jones (<a href="https://lsa.umich.edu/polisci/people/faculty/pjluong.html">bio</a>)</th>
+  <th>Noah Nathan (<a href="https://sites.lsa.umich.edu/noahnathan/">bio</a>)</th>
   </tr>
   <tr>
-    <td><img alt = 'Pauline Jones' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/jones_headshot.jpg' /></td>
-    <td><img alt = 'Noah Nathan' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/nathan_headshot.jpg' /></td>
+  <td><img alt = 'Pauline Jones' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/jones_headshot.jpg' /></td>
+  <td><img alt = 'Noah Nathan' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/nathan_headshot.jpg' /></td>
   </tr>
 </table>
