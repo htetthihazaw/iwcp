@@ -1,8 +1,0 @@
----
-title: "Tom Klemm"
-author: "Tom Klemm"
-date: "2021-07-09"
-output: html_document
----
-
-***The Search for Native American Political Development***
