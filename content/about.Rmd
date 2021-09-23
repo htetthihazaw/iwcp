@@ -13,16 +13,17 @@ If you are interested in signing up for the IWCP listserv, please visit <a href=
 
 You can contact us via email at <a href="mailto:iwcp-listserv-requests@umich.edu">iwcp-listserv-requests@umich.edu</a>.
 
-**2020-2021 Graduate Student Organizers**
+**2021-2022 Graduate Student Organizers**
 
 <table border="0" width="100%" ID="Table2" style="margin: 0px;">
   <colgroup>
   <col span="3">
   </colgroup>
   <tr>
-  <th>Hojung Joo (<a href="https://sites.lsa.umich.edu/hojungjoo/">bio</a>)</th>
-  <th>Danny Blinderman (<a href="https://lsa.umich.edu/polisci/people/graduate-students/dannygb.html">bio</a>)</th>
-  <th>Rebecca Wai (<a href="https://lsa.umich.edu/polisci/people/graduate-students/waire.html">bio</a>)</th>
+  <th>Anna Halstenbach ()</th>
+  <th>Derek Lief (<a href="https://lsa.umich.edu/polisci/people/graduate-students/dlief.html">bio</a>)</th>
+  <th>Jeremy Boo (<a href="https://lsa.umich.edu/polisci/people/graduate-students/jboo.html">bio</a>)</th>
+   <th>Yehia Mekawi (<a href="https://lsa.umich.edu/polisci/people/graduate-students/ymekawi.html">bio</a>)</th>
   </tr>
   <tr>
   <td><img alt = 'Hojung Joo' style='display: block; margin-left: auto; margin-right: auto;width: 100pt;' src='/./about_files/joo_headshot.jpg' /></td>
@@ -31,7 +32,7 @@ You can contact us via email at <a href="mailto:iwcp-listserv-requests@umich.edu
   </tr>
 </table>\
 
-**2020--2021 Faculty Organizers**\
+**2021--2022 Faculty Organizers**\
 
 <table border="0" width="100%" ID="Table2" style="margin: 0px;">
   <colgroup>

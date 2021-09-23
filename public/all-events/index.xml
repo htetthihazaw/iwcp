@@ -6,7 +6,16 @@
     <description>Recent content in All-events on IWCP: University of Michigan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/all-events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/all-events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>/all-events/2021-09-24-test/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/all-events/2021-09-24-test/</guid>
+      <description>Test</description>
+    </item>
+    
     <item>
       <title>Anil Menon</title>
       <link>/all-events/2021-09-10-menon/</link>
