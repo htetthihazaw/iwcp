@@ -1,0 +1,7 @@
+title: "Eitan Paul"
+author: "Eitan Paul"
+date: "2021-10-15"
+output: html_document
+---
+
+***Limits of Inclusivity: Gendered Dynamics of Village Budgeting Reforms in Indonesia***

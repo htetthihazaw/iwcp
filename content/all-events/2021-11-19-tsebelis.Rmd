@@ -1,0 +1,8 @@
+---
+title: "George Tsebelis"
+author: "George Tsebelis"
+date: "2021-11-19"
+output: html_document
+---
+
+***Judicial Independence, Discretion, and Preferences in Comparative Perspective***

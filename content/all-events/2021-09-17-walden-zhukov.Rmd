@@ -1,0 +1,8 @@
+---
+title: "Jake Walden and Yuri Zhukov"
+author: "Jake Walden and Yuri Zhukov"
+date: "2021-09-17"
+output: html_document
+---
+
+***Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19***

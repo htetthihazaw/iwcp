@@ -1,0 +1,8 @@
+---
+title: "Taha Rauf"
+author: "Taha Rauf"
+date: "2021-10-22"
+output: html_document
+---
+
+***Long-run effects of religious institutions on development***
